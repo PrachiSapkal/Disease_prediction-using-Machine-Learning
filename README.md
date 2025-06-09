@@ -55,4 +55,4 @@ Prediction – ML model processes input and predicts the most probable disease.
 
 Remedy Suggestion – Based on prediction, relevant remedies are fetched and shown.
 
-(Optional) Email functionality to send prediction results.
+ Email functionality to send prediction results.
